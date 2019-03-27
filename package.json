@@ -179,6 +179,9 @@
       "resolved": "https://registry.npmjs.org/url-join/-/url-join-2.0.5.tgz",
       "version": "2.0.5"
     },
+    "scripts": {
+      "start": "index.html"
+    },
     "wordwrap": {
       "integrity": "sha1-o9XabNXAvAAI03I0u68b7WMFkQc=",
       "resolved": "https://registry.npmjs.org/wordwrap/-/wordwrap-0.0.3.tgz",
